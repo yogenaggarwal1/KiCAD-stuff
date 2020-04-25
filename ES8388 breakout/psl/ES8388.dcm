@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ES8388
+D Low Power Stereo Audio CODEC With Headphone Amplifier
+K
+F http://www.everest-semi.com/pdf/ES8388%20DS.pdf
+$ENDCMP
+#
+#End Doc Library

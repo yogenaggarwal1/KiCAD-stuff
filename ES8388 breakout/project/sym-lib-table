@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ES8388)(type Legacy)(uri "C:/Users/Yogen/Desktop/OPC Pvt. Ltd/ES8388 breakout/psl/ES8388.lib")(options "")(descr ""))
+  (lib (name LP2985-33DBVT)(type Legacy)(uri "C:/Users/Yogen/Desktop/OPC Pvt. Ltd/ES8388 breakout/psl/LP2985-33DBVT/LP2985-33DBVT.lib")(options "")(descr ""))
+)
