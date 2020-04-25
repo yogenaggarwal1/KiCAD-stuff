@@ -2,7 +2,7 @@ This is a project in which i am designing breakout borad of IC ES8388 by Everest
 
 Software used : KiCAD
 
-All the project specific libraries are included in psl folder
+All the project specific libraries are included in psl folder.
 
 Main Microcontroller used is ESP32 for i2s and i2c communication purposes.
 
