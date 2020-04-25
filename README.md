@@ -1,4 +1,4 @@
-This is a project in which i am designing breakout borad of IC ES8388 by Everest electronics. 
+This is a project in which i am designing breakout board of IC ES8388 by Everest electronics. 
 
 Software used : KiCAD
 
